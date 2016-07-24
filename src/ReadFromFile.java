@@ -7,7 +7,6 @@ import java.util.Scanner;
  */
 class ReadFromFile {
     static int[] readSort(String filename) {
-
         Scanner scanner = null;
         try {
             scanner = new Scanner(new File(filename));
@@ -17,11 +16,8 @@ class ReadFromFile {
         int i = 0;
         int[] numbersToSort;
         numbersToSort = new int[6];
-        while (scanner.hasNextInt())
-            numbersToSort[i++] = scanner.nextInt();
-
+        while (scanner.hasNextInt()) numbersToSort[i++] = scanner.nextInt();
         scanner.close();
-
         return numbersToSort;
     }
 }

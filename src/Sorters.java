@@ -18,7 +18,7 @@ class Sorters {
         int right = numbersToSort.length - 1;
         do
         {
-            for (int i = left; i < right; i++)
+            for (int i = left; i<right; i++)
             {
                 if(numbersToSort[i] > numbersToSort[i+1])
                 {
@@ -28,9 +28,9 @@ class Sorters {
                 }
             }
             right--;
-            for (int i = right; i > left ; i--)
+            for (int i = right; i>left ; i--)
             {
-                if(numbersToSort[i] < numbersToSort[i-1])
+                if(numbersToSort[i]<numbersToSort[i-1])
                 {
                     numbersToSort[i] ^= numbersToSort[i-1];
                     numbersToSort[i-1] ^= numbersToSort[i];

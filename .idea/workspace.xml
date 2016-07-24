@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="716c0abd-3267-434b-a19a-256e2546489a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Output.java" afterPath="$PROJECT_DIR$/src/Output.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ReadFromFile.java" afterPath="$PROJECT_DIR$/src/ReadFromFile.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Sorters.java" afterPath="$PROJECT_DIR$/src/Sorters.java" />
     </list>
     <ignored path="MassFromFileSorters.iws" />
@@ -39,8 +39,8 @@
       <file leaf-file-name="Sorters.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sorters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+            <state relative-caret-position="680">
+              <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -49,8 +49,8 @@
       <file leaf-file-name="ReadFromFile.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ReadFromFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            <state relative-caret-position="153">
+              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,8 +61,8 @@
       <file leaf-file-name="Output.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Output.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+            <state relative-caret-position="51">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -88,10 +88,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ReadFromFile.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/Sorters.java" />
         <option value="$PROJECT_DIR$/src/Output.java" />
+        <option value="$PROJECT_DIR$/src/ReadFromFile.java" />
+        <option value="$PROJECT_DIR$/src/Sorters.java" />
       </list>
     </option>
   </component>
@@ -508,16 +508,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Sorters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        <state relative-caret-position="680">
+          <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ReadFromFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        <state relative-caret-position="153">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -526,8 +526,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Output.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        <state relative-caret-position="51">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
           <folding />
         </state>
       </provider>

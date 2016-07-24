@@ -4,7 +4,7 @@
 public class Output {
     static void output(int[] numbersToSort) {
         for (int j = 0; j < numbersToSort.length; j++) {
-        System.out.print(numbersToSort[j] + " ");
+            System.out.print(numbersToSort[j] + " ");
         }
         System.out.println("");
     }
