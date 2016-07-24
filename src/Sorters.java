@@ -12,7 +12,7 @@ class Sorters {
                 }
             }
         }
-        }
+    }
     static void ShakerSort (int [] numbersToSort) {
         int left = 0;
         int right = numbersToSort.length - 1;

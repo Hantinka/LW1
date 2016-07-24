@@ -7,6 +7,6 @@ public class Output {
         System.out.print(numbersToSort[j] + " ");
         }
         System.out.println("");
-         }
     }
+}
 
