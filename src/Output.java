@@ -7,10 +7,6 @@ public class Output {
         System.out.print(numbersToSort[j] + " ");
         }
         System.out.println("");
-    }
-    static void output2(int[] numbersToSort) {
-        for (int i : numbersToSort)
-        System.out.print(i + " ");
-        }
+         }
     }
 

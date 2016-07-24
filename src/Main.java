@@ -8,6 +8,6 @@ public class Main {
         Sorters.bSort(numbers);
         Sorters.ShakerSort( numbers2);
         Output.output(numbers);
-        Output.output2(numbers2);
+        Output.output(numbers2);
     }
 }
