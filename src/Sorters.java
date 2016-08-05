@@ -17,6 +17,7 @@ class Sorters {
     static void shakerSort(int[] numbersToSort) {
         int left = 0;
         int right = numbersToSort.length - 1;
+        int permutation = 0;
         do {
             for (int i = left; i < right; i++) {
                 if (numbersToSort[i] > numbersToSort[i + 1]) {
