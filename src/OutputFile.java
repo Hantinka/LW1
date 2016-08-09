@@ -15,5 +15,6 @@ public class OutputFile {
         } catch (IOException e) {
             e.printStackTrace();
         }
+        }
     }
-}
+

@@ -16,10 +16,10 @@ public class Main {
         Sorters.shellSort(numbers4);
         // 2
         // 3
-        Output.output(numbers);
-        Output.output(numbers2);
-        Output.output(numbers3);
-        Output.output(numbers4);
+        Output.outputArray(numbers);
+        Output.outputArray(numbers2);
+        Output.outputArray(numbers3);
+        Output.outputArray(numbers4);
         OutputFile.writeSort("output.txt",numbers);
         OutputFile.writeSort("output2.txt",numbers2);
         OutputFile.writeSort("output3.txt",numbers3);
